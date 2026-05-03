@@ -5,7 +5,7 @@ Instalador automatizado de servidor Minecraft + CraftControl + Playit.gg para Gi
 ## Comando único de instalação
 
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/setup_server.sh)
+bash <(curl -sL https://raw.githubusercontent.com/mainedgaro/minecraft-server-setup/refs/heads/main/setup_server.sh)
 ```
 
 > Substitua `SEU_USUARIO` e `SEU_REPOSITORIO` pelo seu usuário e nome do repo no GitHub.
@@ -64,5 +64,5 @@ cat /workspaces/servidor/setup.log
 O script é seguro para executar mais de uma vez. Ele verifica o que já está instalado e pula as etapas concluídas.
 
 ```bash
-bash <(curl -sL https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/setup_server.sh)
+bash <(curl -sL https://raw.githubusercontent.com/mainedgaro/minecraft-server-setup/refs/heads/main/setup_server.sh)
 ```
